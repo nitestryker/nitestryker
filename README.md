@@ -4,7 +4,6 @@
 
 ## 🌱 About Me
 
-- 🔭 I'm currently working on Nothing at the moment.
 - 🌱 I’m currently learning new programming languages and technologies
 - 👯 I am looking to collaborate on open source projects.
 - 🤔 I’m looking for help with open-source projects, especially those related to Linux.
