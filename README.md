@@ -4,12 +4,11 @@
 
 ## 🌱 About Me
 
-- 🔭 I'm currently working on [bash-wallpaper-downloader](https://github.com/nitestryker/bash-wallpaper-downloader).
+- 🔭 I'm currently working on Nothning at the moment.
 - 🌱 I’m currently learning new programming languages and technologies
 - 👯 I am looking to collaborate on open source projects.
 - 🤔 I’m looking for help with open-source projects, especially those related to Linux.
 - 💬 Ask me about Python, Linux admin, and open-source experiences.
-- 📫 How to reach me: [nitestryker@gmail.com](mailto:nitestryker@gmail.com)
 - 😄 Hobbies: Programming, making digital music, and playing retro games.
 - ⚡ Fun fact: Besides coding, I've also dabbled in pixel art and game design.
 
